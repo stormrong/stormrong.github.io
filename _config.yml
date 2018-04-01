@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 把握当下，面对未来！
-brief-intro: Coding and Life！
+title: RONGLIANG
+brief-intro: Embedded Software Enginner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stormrong.github.io" # the base hostname & protocol for your site
 
