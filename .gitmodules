@@ -1,0 +1,6 @@
+[submodule "learngit"]
+	path = learngit
+	url = https://github.com/stormrong/learngit.git
+[submodule "SubModule"]
+	path = SubModule
+	url = https://github.com/stormrong/learngit.git
